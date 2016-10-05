@@ -23,5 +23,7 @@ def fullName():
     print('')
 
 codeAndType()
+
 synonyms()
+
 fullName()
